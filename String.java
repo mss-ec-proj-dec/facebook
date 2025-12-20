@@ -1,0 +1,1 @@
+ithis file contains strings:
